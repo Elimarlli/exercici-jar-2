@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="coche-conpaquete">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/coche-conpaquete.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
